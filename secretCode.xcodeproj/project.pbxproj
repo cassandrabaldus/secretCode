@@ -14,6 +14,7 @@
 		AF320F072048C3BE0072ED7D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AF320F052048C3BE0072ED7D /* LaunchScreen.storyboard */; };
 		AF320F122048C3BE0072ED7D /* secretCodeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF320F112048C3BE0072ED7D /* secretCodeTests.swift */; };
 		AF320F1D2048C3BE0072ED7D /* secretCodeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF320F1C2048C3BE0072ED7D /* secretCodeUITests.swift */; };
+		AF320F2B2048C4780072ED7D /* CodeWord.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF320F2A2048C4780072ED7D /* CodeWord.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		AF320F182048C3BE0072ED7D /* secretCodeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = secretCodeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		AF320F1C2048C3BE0072ED7D /* secretCodeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = secretCodeUITests.swift; sourceTree = "<group>"; };
 		AF320F1E2048C3BE0072ED7D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AF320F2A2048C4780072ED7D /* CodeWord.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CodeWord.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				AF320EFC2048C3BE0072ED7D /* AppDelegate.swift */,
 				AF320EFE2048C3BE0072ED7D /* ViewController.swift */,
 				AF320F002048C3BE0072ED7D /* Main.storyboard */,
+				AF320F2A2048C4780072ED7D /* CodeWord.swift */,
 				AF320F032048C3BE0072ED7D /* Assets.xcassets */,
 				AF320F052048C3BE0072ED7D /* LaunchScreen.storyboard */,
 				AF320F082048C3BE0072ED7D /* Info.plist */,
@@ -261,6 +264,7 @@
 			files = (
 				AF320EFF2048C3BE0072ED7D /* ViewController.swift in Sources */,
 				AF320EFD2048C3BE0072ED7D /* AppDelegate.swift in Sources */,
+				AF320F2B2048C4780072ED7D /* CodeWord.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
